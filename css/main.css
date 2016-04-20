@@ -1,0 +1,9 @@
+img{
+  height: 10vh;
+  width: 10vw;
+}
+
+ body > section{
+  clear: both;
+  padding: 50px 0;
+ }
