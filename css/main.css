@@ -11,3 +11,7 @@ body > section{
 .centerImage{
   background-color: #808080;
 }
+.navbar-default {
+    background-color: #3F51B5;
+    border-color: #3F51B5;
+}
