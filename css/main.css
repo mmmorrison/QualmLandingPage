@@ -1,17 +1,7 @@
-img{
-  height: 80vh;
-  width: 20vw;
-  /*display: block;*/
-  padding-top: 3%;
+.navbar-brand{
+  font-family: 'Great Vibes', cursive;
 }
-body > section{
-  clear: both;
-  padding: 50px 0;
-}
-.centerImage{
-  background-color: #808080;
-}
-.navbar-default {
-    background-color: #3F51B5;
-    border-color: #3F51B5;
+.navbar-inverse .navbar-brand {
+  color: #f3aa15;
+  font-family: 'Great Vibes', cursive;
 }
