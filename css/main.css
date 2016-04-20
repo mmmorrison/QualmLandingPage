@@ -6,3 +6,7 @@
   font-family: 'Great Vibes', cursive;
   background-color: #3F51B5;
 }
+.navbar-inverse {
+    background-color: #3F51B5;
+    border-color: #080808;
+}
